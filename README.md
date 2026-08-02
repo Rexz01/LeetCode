@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rexz01/LeetCode/tree/master/0486-predict-the-winner) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Rexz01/LeetCode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
