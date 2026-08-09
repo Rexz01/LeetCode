@@ -1,15 +1,40 @@
 class Solution {
     public String convert(String s, int numRows) {
-        if (numRows == 1) return s;
-        StringBuilder sb = new StringBuilder();
+
+        if (numRows == 1 || s.length() <= numRows)
+            return s;
+
+        StringBuilder[] rows = new StringBuilder[numRows];
+
         for (int i = 0; i < numRows; i++) {
-            for (int j = i; j < s.length(); j += (2 * (numRows - 1))) {
-                sb.append(s.charAt(j));
-                if (i > 0 && i < numRows - 1 && j + (2 * (numRows - 1)) - (2 * i) < s.length()) {
-                    sb.append(s.charAt(j + (2 * (numRows - 1)) - (2 * i)));
-                }
-            }
+            rows[i] = new StringBuilder();
         }
-        return sb.toString();
+
+        int currentRow = 0;
+        boolean goingDown = true;
+
+        for (char c : s.toCharArray()) {
+
+            rows[currentRow].append(c);
+
+            if (currentRow == 0)
+                goingDown = true;
+
+            if (currentRow == numRows - 1)
+                goingDown = false;
+
+            if (goingDown)
+                currentRow++;
+            else
+                currentRow--;
+        }
+
+        StringBuilder ans = new StringBuilder();
+
+        for (StringBuilder row : rows) {
+            ans.append(row);
+        }
+
+        return ans.toString();
     }
 }
