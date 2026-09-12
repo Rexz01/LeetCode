@@ -101,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Rexz01/LeetCode/tree/master/3903-smallest-stable-index-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Rexz01/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
