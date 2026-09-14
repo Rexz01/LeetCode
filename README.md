@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rexz01/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Rexz01/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rexz01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rexz01/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Rexz01/LeetCode/tree/master/0486-predict-the-winner) |
 | [0682-baseball-game](https://github.com/Rexz01/LeetCode/tree/master/0682-baseball-game) |
 | [3903-smallest-stable-index-i](https://github.com/Rexz01/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Rexz01/LeetCode/tree/master/0007-reverse-integer) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rexz01/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Rexz01/LeetCode/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
