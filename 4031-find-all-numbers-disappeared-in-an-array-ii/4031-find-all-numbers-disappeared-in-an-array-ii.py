@@ -1,31 +1,24 @@
 class Solution:
     def findDisappearedNumbers(self, nums: list[int], lower: int, upper: int) -> list[list[int]]:
-        s = set()
+        ans = []
+        prev = lower - 1
+        nums.sort()
 
         for i in range(len(nums)):
-            s.add(nums[i])
+            num = nums[i]
 
-        li = []
-
-        for i in range(lower, upper + 1):
-            if i not in s:
-                li.append(i)
-
-        ans = []
-        help = []
-
-        if len(li) == 0:
-            return ans
-
-        x = li[0]
-
-        for i in range(1, len(li)):
-            if li[i] == li[i - 1] + 1:
+            if num < lower:
                 continue
-            else:
-                help.append([x, li[i - 1]])
-                x = li[i]
 
-        help.append([x, li[-1]])
+            if num > upper:
+                break
 
-        return help
+            if num - prev >= 2:
+                ans.append([prev + 1, num - 1])
+
+            prev = num
+
+        if upper + 1 - prev >= 2:
+            ans.append([prev + 1, upper])
+
+        return ans
