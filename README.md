@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Rexz01/LeetCode/tree/master/0486-predict-the-winner) |
 | [0682-baseball-game](https://github.com/Rexz01/LeetCode/tree/master/0682-baseball-game) |
 | [3903-smallest-stable-index-i](https://github.com/Rexz01/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/Rexz01/LeetCode/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rexz01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Rexz01/LeetCode/tree/master/0268-missing-number) |
+| [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/Rexz01/LeetCode/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 ## Counting
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rexz01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rexz01/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rexz01/LeetCode/tree/master/0268-missing-number) |
+| [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/Rexz01/LeetCode/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |
