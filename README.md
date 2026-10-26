@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rexz01/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rexz01/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Rexz01/LeetCode/tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/Rexz01/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Rexz01/LeetCode/tree/master/0682-baseball-game) |
 | [3903-smallest-stable-index-i](https://github.com/Rexz01/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/Rexz01/LeetCode/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Rexz01/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Rexz01/LeetCode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rexz01/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Rexz01/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rexz01/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Sliding Window
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Rexz01/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3903-smallest-stable-index-i](https://github.com/Rexz01/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Database
 |  |
