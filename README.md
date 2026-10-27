@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rexz01/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Rexz01/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Rexz01/LeetCode/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/Rexz01/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Rexz01/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Rexz01/LeetCode/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rexz01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rexz01/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Rexz01/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Rexz01/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Rexz01/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Rexz01/LeetCode/tree/master/0217-contains-duplicate) |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Rexz01/LeetCode/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Rexz01/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
