@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rexz01/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Rexz01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rexz01/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Rexz01/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Rexz01/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rexz01/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rexz01/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Rexz01/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rexz01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Rexz01/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Rexz01/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Rexz01/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 ## String Matching
 |  |
