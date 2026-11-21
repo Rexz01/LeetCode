@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Rexz01/LeetCode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Rexz01/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Rexz01/LeetCode/tree/master/0682-baseball-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/Rexz01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3903-smallest-stable-index-i](https://github.com/Rexz01/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/Rexz01/LeetCode/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 ## Math
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rexz01/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rexz01/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Rexz01/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Rexz01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rexz01/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rexz01/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rexz01/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/Rexz01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/Rexz01/LeetCode/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 ## Prefix Sum
 |  |
